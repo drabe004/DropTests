@@ -2,7 +2,6 @@
 
 ##STEP1 This script will copy a list of fasta files (or prefixes) to a new directory
 ##These should be the genes that are P<0.05 for BUSTED and/or RELAX (intensified selection or relaxed selection) 
-
 GetFiles.sh
 DropTestGenes.txt #List of genes to do drop tests for 
 
